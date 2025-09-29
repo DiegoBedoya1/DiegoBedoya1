@@ -6,11 +6,11 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 ## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
+* Nombre: Diego Bedoya
+* Ocupación: Estudiante
+* Lugar de residencia: Ecuador
 * Sitio web: [Tu sitio web]
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
+* Programación, videojuegos, mascotas

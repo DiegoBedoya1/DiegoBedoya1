@@ -17,17 +17,17 @@ Aquí están algunos de mis proyectos más representativos:
 - 🚀 Tecnologías: Java
 - 📊 Estado: ✅ Completado
 
-  ### 📗 Proyecto de Gestión de aviones ([https://github.com/tuusuario/repositorio2](https://github.com/jjroldev/POO-P5-G3-JUSTYNROLDAN-DIEGOBEDOYA-GABRIELSALAS.git))
+### 📗 Proyecto de Gestión de aviones ([https://github.com/tuusuario/repositorio2](https://github.com/jjroldev/POO-P5-G3-JUSTYNROLDAN-DIEGOBEDOYA-GABRIELSALAS.git))
 - 📝 Descripción: Interfaz gráfica para gestión de reserva de aviones
 - 🚀 Tecnologías: Java, utilizando JavaFx
 - 📊 Estado: ✅ Completado
 
-  ### 📗Proyecto de Gestión de contactos (https://github.com/DiegoBedoya1/Proyecto-Estructuras.git)
+### 📗Proyecto de Gestión de contactos (https://github.com/DiegoBedoya1/Proyecto-Estructuras.git)
 - 📝 Descripción: Interfaz gráfica para gestión de contactos para celulares
 - 🚀 Tecnologías: Java, utilizando JavaFx
 - 📊 Estado: ✅ Completado
 
-   ### 📗Proyecto de Menú con opciones (https://github.com/jjroldev/PPOrganizaci-nCG7.git)
+### 📗Proyecto de Menú con opciones (https://github.com/jjroldev/PPOrganizaci-nCG7.git)
 - 📝 Descripción: Menú con 4 diferentes opciones en Assembly
 - 🚀 Tecnologías: C, Assembly(MIPS)
 - 📊 Estado: ✅ Completado

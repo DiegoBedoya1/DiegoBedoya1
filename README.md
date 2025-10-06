@@ -26,3 +26,16 @@ Aquí están algunos de mis proyectos más representativos:
 - 📝 Descripción: Interfaz gráfica para gestión de contactos para celulares
 - 🚀 Tecnologías: Java, utilizando JavaFx
 - 📊 Estado: ✅ Completado
+
+   ### 📗Proyecto de Menú con opciones (https://github.com/jjroldev/PPOrganizaci-nCG7.git)
+- 📝 Descripción: Menú con 4 diferentes opciones en Assembly
+- 🚀 Tecnologías: C, Assembly(MIPS)
+- 📊 Estado: ✅ Completado
+
+   ### 📗Proyecto de Decodificación de información usando Huffman ([https://github.com/jjroldev/PPOrganizaci-nCG7.git](https://github.com/DiegoBedoya1/proyecto-discretas.git))
+- 📝 Descripción: Intefaz gráfica en donde codifica y decodifica información usando árboles de Huffman
+- 🚀 Tecnologías: Java, utilizando JavaFx
+- 📊 Estado: ✅ Completado
+
+  
+

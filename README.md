@@ -8,7 +8,7 @@ Hola, soy Diego Bedoya, estudio ingeniería en computación con experiencia/inte
 - 🌱 Actualmente aprendiendo: HTML, CSS, Ruby, Dart, PHP, JavaScript, TypeScript, Django, React
 - 📫 Contacto: dbedoya@espol.edu.ec
 
- ## 🚀 Mis Proyectos
+ ### 🚀 Mis Proyectos
 
 Aquí están algunos de mis proyectos más representativos:
 
@@ -32,7 +32,7 @@ Aquí están algunos de mis proyectos más representativos:
 - 🚀 Tecnologías: C, Assembly(MIPS)
 - 📊 Estado: ✅ Completado
 
-   ### 📗Proyecto de Decodificación de información usando Huffman (https://github.com/DiegoBedoya1/proyecto-discretas.git)
+### 📗Proyecto de Decodificación de información usando Huffman (https://github.com/DiegoBedoya1/proyecto-discretas.git)
 - 📝 Descripción: Intefaz gráfica en donde codifica y decodifica información usando árboles de Huffman
 - 🚀 Tecnologías: Java, utilizando JavaFx
 - 📊 Estado: ✅ Completado

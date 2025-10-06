@@ -8,8 +8,8 @@ Hola, soy Diego Bedoya, estudio ingeniería en computación con experiencia/inte
 - 🌱 Actualmente aprendiendo: HTML, CSS, Ruby, Dart, PHP, JavaScript, TypeScript, Django, React
 - 📫 Contacto: dbedoya@espol.edu.ec
 
-
- ## 🚀 Mis Proyectos
+  
+## 🚀 Mis Proyectos
 
 Aquí están algunos de mis proyectos más representativos:
 
